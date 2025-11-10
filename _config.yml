@@ -1,8 +1,8 @@
 # Site settings
 title: Enderper
 SEOTitle: Enderper的博客 | BY Blog
-header-img: "C:\Users\chenz\Desktop\中转\mle.jpg"
-email: 
+header-img: "img/post-bg-desk.jpg"
+email: 842392614@qq.com
 description: "Every failure is leading towards success."
 keyword: "Enderper的博客，python，linux"
 url: "http://enderper.github.io"          # your host, for absolute URL
